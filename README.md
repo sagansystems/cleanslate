@@ -1,5 +1,7 @@
 # Cleanslate
 
+Gladly forked this repo because we needed to remove transform declarations. Firefox does not allow animations of properties that were previously qualified with !important. More info can be found here: https://github.com/sagansystems/cleanslate/pull/1
+
 Full site: [cleanslatecss.com](http://cleanslatecss.com)
 
 **Cleanslate is an extreme CSS reset stylesheet.** It is used to reset the styling of an HTML element and all its children, back to default CSS values. It is composed exclusively of [!important rules](http://www.w3.org/TR/CSS2/cascade.html#important-rules), which override all other types of rules.
