@@ -143,15 +143,15 @@
     text-shadow: none !important;
     -webkit-transition: all 0s ease 0s !important;
             transition: all 0s ease 0s !important;
-            
-/* transform commented out because it overrides 
+
+/* transform commented out because it overrides
      typing indicator animation in Firefox */
 
     /* -webkit-transform: none !important;
        -moz-transform: none !important;
         -ms-transform: none !important;
          -o-transform: none !important;
-            transform: none !important; */ 
+            transform: none !important; */
 
     -webkit-transform-origin: 50% 50% !important;
        -moz-transform-origin: 50% 50% !important;
@@ -259,7 +259,7 @@
 .cleanslate strong {
     font-weight:bold !important;
 }
-.cleanslate em {
+.cleanslate em, i {
     font-style:italic !important;
 }
 .cleanslate kbd, .cleanslate samp, .cleanslate code, .cleanslate pre {
