@@ -259,7 +259,7 @@
 .cleanslate strong {
     font-weight:bold !important;
 }
-.cleanslate em, i {
+.cleanslate em, .cleanslate i {
     font-style:italic !important;
 }
 .cleanslate kbd, .cleanslate samp, .cleanslate code, .cleanslate pre {
